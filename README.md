@@ -1,7 +1,10 @@
 # ParticleLab
 
-ParticleLab — interactive physics playground built with Kotlin + Jetpack Compose.
- 
+ParticleLab -> interactive physics playground built with Kotlin + Jetpack Compose.
+
+## Why this exists
+
+This project explores real-time rendering and physics simulation constraints in Jetpack Compose, including performance tradeoffs, state updates, and custom drawing pipelines.
 
 ## Features
 - Real-time physics (custom engine)
